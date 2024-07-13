@@ -1,16 +1,35 @@
-# snap_buy
+# Snap Buy App
 
-A new Flutter project.
+Snap Buy is a Flutter-based e-commerce application that allows users to browse and purchase books. The app includes features such as user authentication, adding books to favorites, adding books to cart, and viewing detailed information about each book.
 
-## Getting Started
+## Features
+- View book details.
+- User authentication.
+- Browse a collection of books.
+- Add or remove books from favorites and cart.
 
-This project is a starting point for a Flutter application.
+## Project Structure
+The project is structured as follows:
 
-A few resources to get you started if this is your first Flutter project:
+- constants/: Contains constant values like colors, extensions, fonts, and strings used throughout the app.
+- controllers/: Contains the controllers for managing the app's state using GetX.
+- controllers/services/: Contains the Firebase services for interacting with the backend.
+- models/: Contains the data models used in the app.
+- views/: Contains the UI components and widgets.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies Used:
+- Firebase Auth.
+- Firestore Database.
+- Storage.
+- Flutter.
+- GetX.
+- MVC Architecture.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Getting Started:
+1. Clone the repository to your local machine.
+2. Ensure you have Flutter installed and configured.
+3. Run `flutter pub get` to install dependencies.
+4. Launch the app on your preferred emulator or physical device.
+
+## Contributors:
+- Mourad Ashraf Dayef
