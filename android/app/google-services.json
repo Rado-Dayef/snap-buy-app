@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1001866384877",
+    "project_id": "snap-buy-1",
+    "storage_bucket": "snap-buy-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001866384877:android:b28836c3252aaa46e483e4",
+        "android_client_info": {
+          "package_name": "com.ncp.snapBuy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5DItDTG4GSVv3Ipz1tsv15R6A6mcFpXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
